@@ -91,11 +91,12 @@ class Transcript(Resource):
         video_id = extract.video_id(self.data['link'])
         self.data['id'] = video_id
 
-        if not self.is_video_available(self.data['id']):
+        if not self.is_video_available(API_KEY, self.data['id']):
             return {"error": "video doesnt exist anymore"}, 400
 
         try:
             transcription = self.transcribe_youtube_video(self.data['link'])
+            self.data['transcription'] = transcription
             
             return {'status': 'Success', 'body': self.data}, 200
         except FileNotFoundError:
