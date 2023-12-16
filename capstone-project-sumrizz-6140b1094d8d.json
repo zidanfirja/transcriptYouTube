@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-project-sumrizz",
+  "private_key_id": "6140b1094d8d95cb51de7817acf21d7315baef35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzkMe73i/9hAoQ\n9T8bqQWd0sjsUAU5ofIQimbNAnY9Uj0r9rgV7VgiDTK/H/Y1PsW5jm9JEOkieX1G\n4mMAvCn7fpeRhUDZC6fGap10hqYGucB+RyDwOr/Mf+WGm7UKF3tZzVIo0zBruK9G\nsaI09Hk2TwibwvHgvzoUUsv48ZqPgg5E82XZ1BXYgDfhXNiA1VzOP5/z2Fmn0lm1\nQX5K4GvQnno1NHWApF2lelxUiiDd4DqxK3/q11C2DvNVdCFs4PPp4klV8UBYkM53\nnVdP/eJprCOt+kCPRe0aiJbXW0P8LhyXPHVue1+3xyjhQlHpMJgJr4gmHZ5Swngk\nEM/aIaldAgMBAAECggEAAgoMm4hrt+GA8jTpeUlVLCm6fhbFAGvxzBigD7IU2cqn\nI04RfXa0L85eO3JuiDXvrbGhIj913I/6iWjvxaz50xS+Pgc5N5ayIXitRadXXswS\nd9kbuXzs3wgRB2iZniGOP+ZVwl0LMJCow5gLZu8cf7zImGkk+Gi44oXeatBmuFjR\n8tIBC+/M0uqctezG5iWy2Hv9GolSF945WJLhWiqVN6HbQmN0F59AuW6gLpnla6ia\nrlMJ06oGBq48Z7TewB1pAi3EccGXd5pdW7hXOKPiGPF5Exr8j/4+M3kBZeCjZH5W\nyY476UiXjEqnd9q5zvCblR0G35EZ8R1kh1IL9RWmZwKBgQDhKQb0AZj5MqbZny4n\n5SvczpEw4bUvetgm1fh8VMRwXcmeFzjCFjK217rh04LgXoZr0pikbd440DTctIeE\nGVQ+HYzpcAYYYd08sfgIEzbz5ptomCC6SEJ8VgTr1xRPKQfwgvkTmrLuOEtudvsh\nE9Eelp1N4ykZCg3fCXBzpRRczwKBgQDMKQeHg+Y8mYH6dbkUJwvHXUaV8tM1FEZ2\n7kPayp75e5ib52SJwHeveQh5EbssKn/Z+iElgM7a2gKIAGR6vqMe2LxY+P7u6hcV\nAD29uxaXPqG9sgYMKQqYyJvndpYM1mASFtrKzgLSOnNE6ZcfwCciVUMcw31Hbllr\nSMlPaqJaEwKBgH++RSGe3mlToXIKa6daz/3gfGNdSux7J7Mw5l+zwBd4PnEg/6St\n72vpDTAeTjx5pI3713pCkzdsePFWwyPhMvhiz5WJZwviSiCrX+tE64KJLVa0KK1H\nXeEo9HXResZGoyiDRkknFakt6y3q9yOXGKfgD7Mm1CROnfwSYOhbmiflAoGAcvAm\nbQS0+ijyJC9ioxXYa8T3mDO89IUVpp89VE/+cDZFFICQ+XyB5SgevQpedd73W6CW\nSKbbzhoukqKl7vSkoRkj8HM+EwN3OzuHhultLnj0VfeDsBTrAljubME2eMO4EncL\ndmHE9NYzTvizPAzR+2JFBkyIm05kySGRNES0YkECgYA8+mEr7WKfEXVTIn+82W6D\n6UMkGaZeOv6CuzW1P3lZBvlTqO4+db37lWqptc59tg2VSq6afDPEb3zFYmYkawqi\nCFQ+dcUaiyVtldbTP9Al5a1LdrIQWFctpGPZ5zdQYadG1MEK9kMyxoa8EI4wC+5k\nuhGD0XhWsnHsx0bj/Qz52A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-sumrizz@capstone-project-sumrizz.iam.gserviceaccount.com",
+  "client_id": "107380537486592759187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-sumrizz%40capstone-project-sumrizz.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
